@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlideshowApp</string>
+    <string name="displayed_image">Displayed Image</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="enter_picture_number">Enter Picture Number (1-6)</string>
+</resources>
