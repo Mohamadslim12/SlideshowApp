@@ -3,5 +3,15 @@
     <string name="displayed_image">Displayed Image</string>
     <string name="back">Back</string>
     <string name="next">Next</string>
-    <string name="enter_picture_number">Enter Picture Number (1-6)</string>
+    <string name="enter_picture_number">Enter Picture Number (1-10)</string>
+    <string name="futo_maki">1. Futo Maki</string>
+    <string name="nigiri">2. Nigiri</string>
+    <string name="onigiri">3. Onigiri</string>
+    <string name="gunkan_maki">4. Gunkan Maki</string>
+    <string name="temaki">5. Temaki</string>
+    <string name="uramaki">6. Ura Maki</string>
+    <string name="narezushi">7. Narezushi</string>
+    <string name="oshi">8. Oshi</string>
+    <string name="inari">9. Inari</string>
+    <string name="chirashi">10. Chirashi</string>
 </resources>
